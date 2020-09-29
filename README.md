@@ -1,9 +1,9 @@
-# exercise-getting-started-with-python
+# exercise-data-wrangling-with-python
 
-Exercises for getting started with Python.
+Exercises for data wrangling with Python.
 
 ## Topics
 
 - Functions
-- Data types
-- Conditionals
+- Data structures
+- Iterations
