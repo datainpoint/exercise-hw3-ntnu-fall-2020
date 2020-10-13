@@ -1,6 +1,6 @@
-# exercise-data-wrangling-with-python
+# suggested-answer-data-wrangling-with-python
 
-Exercises for data wrangling with Python.
+Suggested answers for data wrangling with Python.
 
 ## Topics
 
