@@ -1,11 +1,9 @@
-# suggested-answer-advanced-topics-in-python
+# suggested-answer-hw3-ntnu-fall-2020
 
-Suggested answers for advanced topics in Python.
+Suggested answers for homework 3, NTNU Fall 2020.
 
 ## Topics
 
-- Functions
-- Data structures
-- Iterations
 - Classes
 - Useful skills
+- NumPy
